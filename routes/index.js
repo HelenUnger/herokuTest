@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express', message: 'welcome to node with heroku' });
+  res.render('index', { title: 'FLDSMDFR', message: 'Buy This Cool Machine!' });
 });
 
 module.exports = router;
